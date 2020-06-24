@@ -1,0 +1,22 @@
+{
+  "name": "mocha-test-case--unit-test",
+  "version": "1.0.0",
+  "description": "Software Engineering course Homework ( Working on different branch )",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amelegech/Mocha-Test-case--unit-test.git"
+  },
+  "author": "Amelework C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amelegech/Mocha-Test-case--unit-test/issues"
+  },
+  "homepage": "https://github.com/amelegech/Mocha-Test-case--unit-test#readme"
+}
